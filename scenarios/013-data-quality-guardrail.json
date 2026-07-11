@@ -1,0 +1,7 @@
+{
+  "name": "data quality guardrail",
+  "domain": "healthcare analytics",
+  "score_floor": 0.52,
+  "review_window_hours": 24,
+  "expected_action": "monitor"
+}
