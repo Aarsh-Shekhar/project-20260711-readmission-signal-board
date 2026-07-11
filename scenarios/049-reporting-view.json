@@ -1,0 +1,7 @@
+{
+  "name": "reporting view",
+  "domain": "healthcare analytics",
+  "score_floor": 0.48,
+  "review_window_hours": 4,
+  "expected_action": "monitor"
+}
