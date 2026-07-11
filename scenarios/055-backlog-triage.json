@@ -1,0 +1,7 @@
+{
+  "name": "backlog triage",
+  "domain": "healthcare analytics",
+  "score_floor": 0.61,
+  "review_window_hours": 48,
+  "expected_action": "review"
+}
